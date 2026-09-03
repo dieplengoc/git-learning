@@ -198,3 +198,23 @@ AI Agent projects
 Automation projects
 ↓
 Personal AI OS
+
+---
+
+## 10. Project Architecture
+
+This project follows the Personal AI OS architecture:
+
+Knowledge
+↓
+Work
+↓
+Tools
+↓
+Automation
+↓
+AI
+↓
+Personal AI OS
+
+Git/GitHub provides the version-control foundation for this architecture.
